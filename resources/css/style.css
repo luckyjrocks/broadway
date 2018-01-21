@@ -1,3 +1,59 @@
+html {
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 23px;
+  color: white;
+}
+
+h1,
+h2,
+h3, {
+  font-weight: bold;
+}
+
 li {
   list-style-type: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+.h2 {
+  font-size: 32px;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.navbar {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.backgroundimg {
+  background-image: url('../attachments/building.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.backgroundwt {
+  background-color: white;
 }
